@@ -14,7 +14,7 @@ Antigravity Watchdog is a specialized tool designed to monitor local and cloud-b
 ## Installation
 
 ```bash
-git clone https://github.com/StartYourAI/antigravity-watchdog.git
+git clone https://github.com/travispflanz/antigravity-watchdog.git
 cd antigravity-watchdog
 npm install
 ```
